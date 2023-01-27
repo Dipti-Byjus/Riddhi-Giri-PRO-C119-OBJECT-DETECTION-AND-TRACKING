@@ -1,9 +1,4 @@
-import cv2
-import time
-import math
 
-p1 = 530
-p2 = 300
 
 xs = []
 ys = []
